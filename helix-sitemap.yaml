@@ -11,7 +11,7 @@ sitemaps:
         hreflang: en
         alternate: /{path}
       de:
-        source: /blog/query-index.json
-        destination: /blog/sitemap.xml
-        hreflang: de
-        alternate: /{path}
+        source: /de/blog/query-index.json
+        destination: /de/blog/sitemap.xml
+        hreflang: de-DE
+        alternate: /de/{path}
